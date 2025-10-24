@@ -8,11 +8,11 @@
 
 ### 🎯 Today's Achievement:
 
-* Completed Cisco NetAcad Module 1: Introduction to Cybersecurity, achieving 80% on the module quiz.
+* Completed Cisco NetAcad Module 1: Introduction to Cybersecurity, achieving ![80% on the module quiz](Cisco_NetAcad_Module1_Test.png).
 * Successfully navigated all sections within Module 1:
     * 1.1 The World of Cybersecurity
     * 1.2 Organizational Data
-    * 1.3 What Was Taken? (Lab)
+    * 1.3 What Was Taken? (Lab) & ![Analyzed two real-world security breaches (F5 and Toys “R” Us Canada)](m1-lab-what-was-taken.jpg)
     * 1.4 Cyber Attackers
     * 1.5 Cyberwarfare
 * Analyzed two real-world security breaches (F5 and Toys “R” Us Canada) as part of the "What was Taken?" lab.
