@@ -1,8 +1,8 @@
-# 🛡️ Cybersecurity Learning Journal (Cisco NetAcad)
+# 🛡️ Cybersecurity Learning Journal
 
 Welcome to my public journal documenting my progress and knowledge acquisition in cybersecurity!
 
-This repository serves as a daily log of my learning journey, primarily focused on the **Cisco Networking Academy Introduction to Cybersecurity** course.
+This repository serves as a daily log of my learning journey.
 
 ---
 
